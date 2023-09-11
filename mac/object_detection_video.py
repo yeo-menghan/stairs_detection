@@ -1,3 +1,5 @@
+# Refer to https://github.com/chuanqi305/MobileNet-SSD for the trained dataset
+
 import cv2
 import numpy as np
 
